@@ -1,5 +1,4 @@
 # hello-world
-Just the beginning !
 ======================
 Hi Humans!
 
